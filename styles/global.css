@@ -337,6 +337,7 @@ line-height: 16px;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-align: center;
 }
  .setup-complete .container .emoji{
   padding-bottom: 32px;
@@ -550,7 +551,7 @@ border-radius: 100px;
 
 .setup-complete {
   
-    background-image: url('/images/Confetti.svg');
+    /* background-image: url('/images/Confetti.svg'); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
