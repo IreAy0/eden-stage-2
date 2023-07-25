@@ -41,3 +41,4 @@ window.addEventListener('click', function(e) {
     homePage.style.filter = 'none';
   }
 });
+

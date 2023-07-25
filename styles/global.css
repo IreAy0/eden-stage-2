@@ -39,7 +39,9 @@
   font-family: 'Cerebri Sans Light';
   src: url('./fonts/CerebriSansPro-Light.ttf');
 }
-
+html{
+  scroll-behavior: smooth;
+}
 html body{
   /* font-size: 80%; */
   overflow-x: hidden;
@@ -562,4 +564,16 @@ border-radius: 100px;
     justify-content: center;
     height: 100vh;
 
+}
+
+#drawing_canvas {
+  position: absolute;
+  width: 512px;
+  height: 512px;
+/*   top: 51px; */
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  right: 0;
+  pointer-events: none;
 }
