@@ -51,6 +51,7 @@ html body{
   font-size: 1rem;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  position: relative;
 }
 body{
   margin: 0;
@@ -519,7 +520,7 @@ border-radius: 100px;
 }
 
 .bottom-nav {
-  position: sticky;
+  position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;

@@ -33,7 +33,7 @@ border-radius: 9999px;
 
 .modal-content {
   background-color: #fefefe;
-  margin: 40% auto;
+  margin: 30% auto;
   padding: 20px;
   width: 80%;
   border-radius: 16px;
@@ -52,7 +52,6 @@ border-radius: 9999px;
   padding-top: 1.5rem;
 }
 .close {
-  /* color: #aaa; */
   float: right;
   font-size: 28px;
   background: var(--GreysSeptenary);
