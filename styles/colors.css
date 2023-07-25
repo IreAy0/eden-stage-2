@@ -1,0 +1,31 @@
+.text-primary-green{
+  color: var(--PrimaryGreen);
+}
+.text-white {
+  color: var(--white)
+}
+.text-grey-tertiary{
+  color: var(--GreysTertiary);
+}
+.bg-grey-septenary{
+  background: var(--GreysSeptenary);
+}
+.bg-green-septenary{
+  background: var(--GreenSeptenary);
+}
+.bg-green-primary{
+  background: var(--PrimaryGreen);
+}
+.bg-green-secondary{
+  background: var(--SecondaryGreen);
+}
+.bg-purple-septenary{
+  background: var( --PurpleSeptenary);
+}
+.bg-orange-septenary{
+  background: var(--OrangeSeptenary);
+}
+
+.bg-pink-septenary{
+  background: var(--PinkSeptenary);
+}

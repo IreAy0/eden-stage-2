@@ -1,0 +1,33 @@
+@media (min-width: 340px) {
+ 
+}
+@media (min-width: 576px) {
+ 
+}
+@media (min-width: 768px) {
+  
+}
+@media (min-width: 1024px) {
+  
+ html {
+  font-size: 80%;
+}
+}
+@media (min-width: 1280px) {
+  
+ html {
+  font-size: 100%;
+}
+}
+@media (min-width: 1536px) {
+  
+ html {
+  font-size: 110%;
+}
+}
+@media (min-width: 1840px) {
+  
+ html {
+  font-size: 137.5%;
+}
+}
